@@ -1,0 +1,32 @@
+4672948
+-CPU
+-RAM
+-Monitor
+4810983
+-CPU
+-GPU
+-RAM
+-Controller
+8365012
+-CPU
+-GPU
+-GPU
+-GPU
+-RAM
+-VR Headset
+5619835
+-CPU
+-GPU
+-GPU
+-RAM
+-RAM
+-Controller
+-AR Glasses
+4739211
+-GPU
+-GPU
+-RAM
+-RAM
+-Monitor
+-Controller
+-AR Glasses
