@@ -6,6 +6,8 @@ Write a C++ object oriented program that takes input from a file to build produc
 passes those products through the assembly line to be manufactured and then registers
 them based on product serial number afterwards.
 
+![Result in Console](aline.png)
+
 ## Goal
 * Create several Task objects linked together using a single-ended link list representing the assembly line. 
 * Each task will have a queue for products being processed and a stack with available inventory. 
